@@ -1,0 +1,53 @@
+h1{
+color: #109E97;
+font-family: 'Roboto Slab', serif;
+text-align: center ;
+}
+.price1{
+    color:green;
+    
+}
+.price2{
+    color: red;
+}
+
+.text{
+    background-color: black;
+    color:white;
+    height: 150px;
+    text-align: right;
+}
+img{
+width: 200px;
+height: 302px;
+}
+.comment{
+    text-transform: uppercase;
+    text-align: center ;
+}
+.name label p{
+    text-align: center ;
+}
+.comment2 input{
+    width:400px;
+    height: 300px;
+}
+.button{
+    width:80px;
+    height: 10px;
+    background-color:blue;
+    }
+#img_id{
+width: 300px;
+height: 478px;
+}
+.text2{
+    text-align: left;
+    color: blue;
+}
+.footer{
+    height: 80px;
+    background-color: #109E97;
+    text-align: center ;
+}
+
